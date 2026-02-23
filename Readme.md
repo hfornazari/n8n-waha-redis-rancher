@@ -8,6 +8,11 @@
 
 ---
 
+##Agradecimentos
+
+Agradeço ao Guilherme Lazarotto por compartilhar seu material no youtube https://www.youtube.com/watch?v=KkKlfAb3TSI além do github para permitir esse estudo. Se desejar verifique a versão original do Guilherme aqui realizei algumas adaptações apenas para adequar ao racnher. github https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbmJYQy14MEpFekktOFFqaUVPMFh2bHJCNDdSd3xBQ3Jtc0trOXJzWkpVTGotUy1UVUJxTUw3VUtSTDRLbUpVYkxLbVJjVUNqU2tGWDZETlppTFFjejBOTXFXVlNVVHRRR2pYOTBRMENqa3VhRnhfSzZCT2FnSTV6QXRIQlZFMmtBUE42TTZlTXlraUFaeVFsU2FiZw&q=https%3A%2F%2Fguilhermelaz.com.br%2Fn8n-waha-local&v=KkKlfAb3TSI
+
+
 ## Introdução
 
 Este tutorial vai guiar você através do processo de instalação e configuração da nossa estrutura para criação de um Agente de IA Local, incluindo os componentes:
